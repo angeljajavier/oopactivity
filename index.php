@@ -1,4 +1,6 @@
 <?php
+    require_once "med.php";
+    require_once "cart.php";
    
 ?>
 

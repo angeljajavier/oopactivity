@@ -1,5 +1,5 @@
 <?php
-    require_once "medicine.php";
+    require_once "med.php";
     require_once "product.php";
 
     class Cart extends Medicine{
